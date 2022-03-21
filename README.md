@@ -34,7 +34,7 @@ yarn build
 
 Create an API in the google developers console [https://console.developers.google.com](https://console.developers.google.com)
 
-Add a `.env` file or `.env.local` in the project root and specify your API key as `REACT_APP_GOOGLE_MAPS_API_KEY= Place Your Api Key Here`
+Add a `.env` file or `.env.local` in the project root and specify your API key as `FAI_API_KEY= Place Your Api Key Here`
 
 ## Resources
 
